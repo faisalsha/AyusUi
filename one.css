@@ -1,0 +1,49 @@
+
+
+.header{
+	height:150px;
+	background:#f0932b;
+}
+
+.dr{
+    margin-left: 90rem;
+}
+
+.jumbotron{
+    background-color:orangered;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.container1
+{
+	/* height:200px; */
+	height: 40px;
+	background:#ccc;
+	/* align-items: center; */
+	justify-content: center;
+	
+}
+
+.one{
+	margin-top: 9px;
+	justify-content: center;
+	margin-left: 45rem;
+}
+
+
+.image{
+	margin-top: 55px;
+	margin-left: 45rem;
+}
+
+.bold{
+	font-size: larger;
+	/* margin-bottom: 3; */
+	margin-top: 2px;
+	margin-top: 23px;
+}
+
+.hype{
+	margin-top: 25px;
+}
